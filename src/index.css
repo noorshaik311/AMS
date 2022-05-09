@@ -1,5 +1,9 @@
 body {
   margin: 0;
+  background-image: url(/src/images/img3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
